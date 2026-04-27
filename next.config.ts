@@ -14,6 +14,7 @@ const nextConfig: NextConfig = {
     ],
   },
 
+  // @ts-ignore
   eslint: {
     ignoreDuringBuilds: true,
   },
